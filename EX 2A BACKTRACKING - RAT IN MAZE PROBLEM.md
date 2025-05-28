@@ -21,7 +21,7 @@ To implement the Rat in a Maze problem using backtracking and find all possible 
 
 ### Developed by: MIDHUN AZHAHU RAJA P
 
-### Register Number:  2122222340066
+### Register Number:  212222240066
 
 ```py
 N = 4
